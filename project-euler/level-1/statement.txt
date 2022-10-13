@@ -1,0 +1,15 @@
+A permutation is an ordered arrangement of objects. For example, 3124 is one possible permutation of the digits 1, 2, 3 and 4. If all of the permutations are listed numerically or alphabetically, we call it lexicographic order. The lexicographic permutations of 0, 1 and 2 are:
+
+012   021   102   120   201   210
+
+What is the millionth lexicographic permutation of the digits 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9?
+
+
+Una permutación es un arreglo ordenado de objetos. 
+Por ejemplo, 3124 es una posible permutación de los dígitos 1, 2, 3 y 4. 
+Si todas las permutaciones se enumeran numérica o alfabéticamente, lo llamamos orden lexicográfico. 
+Las permutaciones lexicográficas de 0, 1 y 2 son:
+
+012 021 102 120 201 210
+
+¿Cuál es la millonésima permutación lexicográfica de los dígitos 0, 1, 2, 3, 4, 5, 6, 7, 8 y 9?
