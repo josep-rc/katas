@@ -25,7 +25,7 @@ while (num1 > 99) {
     num2 = init;
     num1--;
 }
-console.log(big);
+console.log(big); // 906609
 
 console.timeEnd("executionTime: ");
 
