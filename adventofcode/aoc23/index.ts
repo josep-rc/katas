@@ -11,7 +11,7 @@ import { day4part2 } from "./day4/part2.ts"
 import { day5part1 } from "./day5/part1.ts"
 import { day6part1 } from "./day6/part1.ts"
 import { day6part2 } from "./day6/part2.ts"
-// import { day7part1, day7part2 } from "./day7/main.ts"
 import { day7part2 } from "./day7/part2.ts"
+import { day8part1 } from "./day8/part1.ts"
 
-day7part2()
+day8part1()
