@@ -1,8 +1,7 @@
 import input from "./input-data.txt";
 
-
 export function day8part1() {
-    console.log("day 7 part 1")
+    console.log("day 8 part 1")
 
     let data = input.split("\n");
 
@@ -29,11 +28,4 @@ export function day8part1() {
     }
 
     console.log(steps)
-
-
-
-
-    // console.log(nodes)
-
-    // console.log(nodes.get('AAA'))
 }
