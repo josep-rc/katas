@@ -17,5 +17,6 @@ import { day8part2 } from "./day8/part2.ts"
 import { day8part2_2 } from "./day8/part2_2.ts"
 import { day9part1 } from "./day9/part1.ts"
 import { day9part2 } from "./day9/part2.ts"
+import { day10part1 } from "./day10/part1.ts"
 
-day9part2()
+day10part1()
