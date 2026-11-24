@@ -1,0 +1,14 @@
+{
+  "name": "2026",
+  "private": true,
+  "scripts": {
+    "typecheck": "bun check",
+    "d1p1": "bun --watch day01/d1p1.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  }
+}
